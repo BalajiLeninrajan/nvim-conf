@@ -20,6 +20,7 @@ return {
         grug_far = true,
         gitsigns = true,
         headlines = true,
+        vim_visual_multi = true,
         illuminate = true,
         indent_blankline = { enabled = true },
         leap = true,
